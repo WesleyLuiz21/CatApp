@@ -7,11 +7,9 @@ fun main() {
     clyde.walk()
     println(binnie)
     println(clyde)
-    Flathead.eat()
-    Flathead.eat()
-    Cupra.walk()
-    Cupra.walk()
-    Cupra.walk()
-    Cupra.walk()
+    Flathead.eat(21)
+    Cupra.walk(2)
+    println(Flathead)
+    println(Cupra)
 
 }
